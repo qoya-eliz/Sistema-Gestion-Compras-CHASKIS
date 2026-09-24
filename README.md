@@ -28,13 +28,13 @@
 ## 🎯 Objetivos del Sistema
 
 ### Objetivo General
-Desarrollar e implementar un sistema web integral para mejorar la gestión de la venta de pasajes y el control de abordaje de la empresa de transporte Los Chaskis, centralizando la información operativa y proporcionando acceso controlado a clientes, administradores y supervisores[cite: 6].
+Desarrollar e implementar un sistema web integral para mejorar la gestión de la venta de pasajes y el control de abordaje de la empresa de transporte Los Chaskis, centralizando la información operativa y proporcionando acceso controlado a clientes, administradores y supervisores.
 
 ### Objetivos Específicos
-1. Diseñar una interfaz web responsiva utilizando HTML, JavaScript y Bootstrap 5 para facilitar la interacción de los usuarios y del personal operativo[cite: 6].
-2. Desarrollar la lógica de negocio mediante Spring Boot y Spring Web para administrar usuarios, buses, asientos, rutas, viajes, pasajeros y ventas[cite: 6].
-3. Implementar un mecanismo de autenticación y autorización con Spring Security y JWT para diferenciar accesos según los roles de Cliente, Administrador y Supervisor[cite: 6].
-4. Diseñar e implementar una base de datos MySQL relacional optimizada para garantizar el almacenamiento transaccional y la integridad de la información[cite: 6].
+1. Diseñar una interfaz web responsiva utilizando HTML, JavaScript y Bootstrap 5 para facilitar la interacción de los usuarios y del personal operativo.
+2. Desarrollar la lógica de negocio mediante Spring Boot y Spring Web para administrar usuarios, buses, asientos, rutas, viajes, pasajeros y ventas.
+3. Implementar un mecanismo de autenticación y autorización con Spring Security y JWT para diferenciar accesos según los roles de Cliente, Administrador y Supervisor.
+4. Diseñar e implementar una base de datos MySQL relacional optimizada para garantizar el almacenamiento transaccional y la integridad de la información.
 
 ---
 
@@ -44,8 +44,8 @@ Desarrollar e implementar un sistema web integral para mejorar la gestión de la
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript (Vanilla/DOM), Bootstrap 5, Thymeleaf |
 | **Backend** | Java 21 (LTS), Spring Boot, Spring Web, Spring Data JPA, Hibernate, Spring Validator |
-| **Seguridad** | Spring Security & JWT (JSON Web Tokens)[cite: 7] |
-| **Base de Datos** | MySQL Server 8.0 (Gestionado en MySQL Workbench)[cite: 7] |
+| **Seguridad** | Spring Security & JWT (JSON Web Tokens) |
+| **Base de Datos** | MySQL Server 8.0 (Gestionado en MySQL Workbench) |
 | **Gestor de Dependencias** | Apache Maven 3.8+ / 3.9+ |
 | **Entorno Recomendado** | Visual Studio Code (con *Extension Pack for Java*) |
 | **Control de Versiones** | Git & GitHub |
@@ -54,11 +54,11 @@ Desarrollar e implementar un sistema web integral para mejorar la gestión de la
 
 ## 📋 Funcionalidades Principales (Alcance)
 
-* 🔐 **Autenticación & Roles:** Control de acceso unificado con Spring Security para *Administrador*, *Supervisor de Terminal* y *Cliente*[cite: 6, 7].
-* 🎟️ **Portal B2C (Cliente):** Buscador de itinerarios por origen/destino, selección interactiva de asientos en croquis (2x2), registro filiatorio de pasajeros y simulación de compra con comprobante digital[cite: 6, 7].
-* 🛠️ **Backoffice Administrativo:** Mantenimiento de flota de buses, maquetación de asientos, programación de rutas/horarios, gestión de usuarios y consulta de reportes analíticos[cite: 6].
-* 🚌 **Módulo de Embarque (Supervisor):** Verificación en plataforma del manifiesto de pasajeros por bus/placa y actualización del estado de abordaje (*Pendiente*, *Abordó*, *Ausente*)[cite: 6].
-* 📄 **Gestión de Comprobantes:** Generación interna y simulación de boletas y facturas electrónicas desglosando Subtotal e IGV (18%)[cite: 6].
+* 🔐 **Autenticación & Roles:** Control de acceso unificado con Spring Security para *Administrador*, *Supervisor de Terminal* y *Cliente*.
+* 🎟️ **Portal B2C (Cliente):** Buscador de itinerarios por origen/destino, selección interactiva de asientos en croquis (2x2), registro filiatorio de pasajeros y simulación de compra con comprobante digital.
+* 🛠️ **Backoffice Administrativo:** Mantenimiento de flota de buses, maquetación de asientos, programación de rutas/horarios, gestión de usuarios y consulta de reportes analíticos.
+* 🚌 **Módulo de Embarque (Supervisor):** Verificación en plataforma del manifiesto de pasajeros por bus/placa y actualización del estado de abordaje (*Pendiente*, *Abordó*, *Ausente*).
+* 📄 **Gestión de Comprobantes:** Generación interna y simulación de boletas y facturas electrónicas desglosando Subtotal e IGV (18%).
 
 ---
 
