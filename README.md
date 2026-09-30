@@ -21,7 +21,7 @@
 ---
 
 ## 🏬 Descripción de la Empresa
-**Agencia de Transportes "Los Chaskis" S.A.** es una empresa peruana dedicada al transporte interprovincial de pasajeros y carga terrestre[cite: 6]. Su modelo operativo conecta las principales ciudades de la costa y sierra del Perú (Lima, Piura, Chiclayo, Cajamarca) garantizando altos estándares de puntualidad, seguridad vial y monitoreo de flota en tiempo real.
+**Agencia de Transportes "Los Chaskis" S.A.** es una empresa peruana dedicada al transporte interprovincial de pasajeros y carga terrestre. Su modelo operativo conecta las principales ciudades de la costa y sierra del Perú (Lima, Piura, Chiclayo, Cajamarca) garantizando altos estándares de puntualidad, seguridad vial y monitoreo de flota en tiempo real.
 
 ---
 
